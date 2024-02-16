@@ -1,0 +1,11 @@
+
+    body{
+        margin: 0px;
+        padding: 0px;
+        background: pink;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.img-section img:hover {
+    opacity: 0.8; /* Adjust the opacity as needed */
+    /* Add any other hover effect styles as needed */
+}
